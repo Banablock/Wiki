@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-        <loc>https://www.fortressmc.cf/#/</loc>
+        <loc>https://www.banablock.net/#/</loc>
         <lastmod>2020-12-06</lastmod>
         <priority>0.9</priority>
    </url>
    <url>
-        <loc>https://www.fortressmc.cf/#/serverinfo/rules</loc>
+        <loc>https://www.banablock.net/#/serverinfo/rules</loc>
         <lastmod>2020-12-06</lastmod>
         <priority>0.5</priority>
    </url>
    <url>
-        <loc>https://www.fortressmc.cf/#/serverinfo/faq</loc>
+        <loc>https://www.banablock.net/#/serverinfo/faq</loc>
         <lastmod>2020-12-06</lastmod>
         <priority>0.5</priority>
    </url>
