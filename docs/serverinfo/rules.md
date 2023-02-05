@@ -18,7 +18,7 @@ Here are some things to keep in mind:
     Advertising is classified as anything that promotes another Minecraft server, a discord server, etc. It does not include advertising matter involving something in-game, such as advertising your shop or auction listing, unless you are excessively advertising or spamming. This rule is enforced when advertising happens in chat, is written on a sign, made with pixel art and/or blocks to spell words or make a logo, or when an advertisement is made via mapart. The exception to this rule is of a player consents to you sending them information that could be classified as an advertisement.
 
 2. **Excessive Swearing**   
-    This rule is simple. Don't swear every other word. You can still swear, but if over 50% of the words you are saying are swear words, you will be in violatiuon of this rule.
+    This rule is simple. Don't swear every other word. You can still swear, but if over 50% of the words you are saying are swear words, you will be in violatipn of this rule.
 
 3. **Spamming**     
     Spamming is classified as sending the same message 3 or more times in sequence, with little to no time in-between sending the messages.
@@ -182,7 +182,7 @@ Keep in mind that all of the rules in Section A apply here. Some infractions may
 
 # Section C - Wartime Rules
 
-This section does not have a tier system, as it is guidelines on wartime, not sepcific rules.   
+This section does not have a tier system, as it is guidelines on wartime, not specific rules.   
 
 - **All rules apply during wartime. However, Rules A.2.2, A.2.4, and A.2.10 are not enforced during wartime.**  
 - **There is a 7 day grace period between wars. Here are the rules of a grace period:** 
