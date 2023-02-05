@@ -182,7 +182,7 @@ Keep in mind that all of the rules in Section A apply here. Some infractions may
 
 # Section C - Wartime Rules
 
-This section does not have a tier system, as it is guidelines on wartime, not sepcific rules.   
+This section does not have a tier system, as it is guidelines on wartime, not specific rules.   
 
 - **All rules apply during wartime. However, Rules A.2.2, A.2.4, and A.2.10 are not enforced during wartime.**  
 - **There is a 7 day grace period between wars. Here are the rules of a grace period:** 
