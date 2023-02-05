@@ -1,7 +1,7 @@
 # FAQ
 
 ### Is there a dynmap?
-Yes, we do have a dynmap, and it is available at [map.fortressmc.cf](https://map.fortressmc.cf/)
+Yes, we do have a dynmap, and it is available at [map.banablock.net](https://map.banablock.net/)
 
 ### Is the server PTW?
 No! We are strongly against PTW ranks. All of our ranks are cosmetic only, and money recieved from ranks go directly to the server. If you have any questions on what we are using the money for, feel free to ask as we try to be transparent about the matter.

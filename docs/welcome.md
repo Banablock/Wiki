@@ -1,6 +1,6 @@
-# **IP: play.fortressmc.cf**
+# **IP: play.banablock.net**
 
-Welcome to FortressMC! To start your adventure, join our Minecraft server using the following IP: play.fortressmc.cf and join the Discord to get to know our community. If you'd like, you can also open our server dynmap to locate other towns that may interest you or look for a specific place that you might want to settle down, and start a new town.
+Welcome to Banablock Network! To start your adventure, join our Minecraft server using the following IP: play.banablock.net and join the Discord to get to know our community. If you'd like, you can also open our server dynmap to locate other towns that may interest you or look for a specific place that you might want to settle down, and start a new town.
 
 There's one thing key similarity from this server to the real world apart from them sharing the planet Earth: money!
 
